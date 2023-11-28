@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\proyectosunreal5\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\proyectosunreal5\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\proyectosunreal5\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "f:\\proyectosunreal5\\toontanks\\source\\toontanks\\toontanksgamemode.h",
+            "f:\\ue5\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\ue5\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\ue5\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\ue5\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\proyectosunreal5\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

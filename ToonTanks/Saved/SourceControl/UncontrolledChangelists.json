@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/ProyectosUnreal5/ToonTanks/Content/Maps/Main.umap",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/BP_PawnTurret.uasset",
+				"F:/ProyectosUnreal5/ToonTanks/Content/Blueprints/BP_PawnTurret.uasset"
+			]
+		}
+	]
+}
